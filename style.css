@@ -1,104 +1,88 @@
-
-body{
-   margin:0px;
-   background-image: url(./bolo.css.jpg);
-   background-repeat: no-repeat;
-   background-size: cover;
+body {
+  margin: 0px;
+  background-image: url(./bolo.css.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-   
-   
-.container{
-background-color: rgb(219, 226, 201);
-margin: 0px auto 0px auto;
+.container {
+  background-color: rgb(219, 226, 201);
+  margin: 0px auto 0px auto;
 
-height: 50%;
-width: 60%;
-
+  height: 50%;
+  width: 60%;
 }
 
-.valor{
-
-    color: brown;
-    font-size: 20px;
-    margin-left: 76px;
-    font-weight: bold;
+.valor {
+  color: brown;
+  font-size: 20px;
+  margin-left: 76px;
+  font-weight: bold;
 }
 
-
-.kit1{
-   font-family: Verdana, sans-serif;
- margin-left: 55px;
- color: rgb(113, 25, 25); 
- 
-} 
-
-
-h1{
-    text-align: center;
-    text-decoration: underline;
-    font-family:  cursive;
-    color: rgb(220, 104, 204);
-   margin-top: 1px;
-   padding: 0px;
-
+.kit1 {
+  font-family: Verdana, sans-serif;
+  margin-left: 55px;
+  color: rgb(113, 25, 25);
 }
 
-.dd{
-    font-family:Verdana, sans-serif;
-    margin-left: 55px;
-    margin-top: 0px;
-    color: rgb(192, 72, 90);
-    font-size: 20px;
-  
-   
-   
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: cursive;
+  color: rgb(220, 104, 204);
+  margin-top: 1px;
+  padding: 0px;
 }
- div h2{
-    margin-left: 76px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(173, 132, 82);
- 
-    
- }
- 
- .valor{
-   
-    font-family:  Verdana, sans-serif;
-    margin-left:76px;
-    font-weight: bold;
- }
 
- .kit2{
-    font-family: Verdana, sans-serif;
-    margin-left: 55px;
-    color: rgb(113, 25, 25);
- }
- 
- .k2{
-    font-family: Verdana, sans-serif;
-    margin-left: 55px;
-    color: rgb(98, 12, 12);
-    font-weight: bold;
- }
- .k1{
-   font-family:Verdana, sans-serif;
-   margin-left: 55px;
-   color: rgb(98, 12, 12);
-   font-weight: bold;
-  
- }
- p{
-   font-family: cursive;
-   margin-left: 76px;
-   width: 90%;
-   font-size: 20px;
-   color: rgb(113, 25, 25);
-   background-color:rgb(211, 222, 184);
- }
- hr {
-   width: 90%;
- }
- .produtos {
-   margin-top: auto;
- }
+.dd {
+  font-family: Verdana, sans-serif;
+  margin-left: 55px;
+  margin-top: 0px;
+  color: rgb(192, 72, 90);
+  font-size: 20px;
+}
+div h2 {
+  margin-left: 76px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(173, 132, 82);
+}
+
+.valor {
+  font-family: Verdana, sans-serif;
+  margin-left: 76px;
+  font-weight: bold;
+}
+
+.kit2 {
+  font-family: Verdana, sans-serif;
+  margin-left: 55px;
+  color: rgb(113, 25, 25);
+}
+
+.k2 {
+  font-family: Verdana, sans-serif;
+  margin-left: 55px;
+  color: rgb(98, 12, 12);
+  font-weight: bold;
+}
+.k1 {
+  font-family: Verdana, sans-serif;
+  margin-left: 55px;
+  color: rgb(98, 12, 12);
+  font-weight: bold;
+}
+p {
+  font-family: cursive;
+  margin-left: 76px;
+  width: 90%;
+  font-size: 20px;
+  color: rgb(113, 25, 25);
+  background-color: rgb(211, 222, 184);
+}
+hr {
+  width: 90%;
+}
+.produtos {
+  margin-top: auto;
+}
